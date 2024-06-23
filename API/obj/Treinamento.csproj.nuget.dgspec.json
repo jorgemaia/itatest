@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LaraFerreira\\Desktop\\Treinamento\\Treinamento.csproj": {}
+    "C:\\Users\\LaraFerreira\\Desktop\\Front\\ita\\itatest\\API\\Treinamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LaraFerreira\\Desktop\\Treinamento\\Treinamento.csproj": {
+    "C:\\Users\\LaraFerreira\\Desktop\\Front\\ita\\itatest\\API\\Treinamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LaraFerreira\\Desktop\\Treinamento\\Treinamento.csproj",
+        "projectUniqueName": "C:\\Users\\LaraFerreira\\Desktop\\Front\\ita\\itatest\\API\\Treinamento.csproj",
         "projectName": "Treinamento",
-        "projectPath": "C:\\Users\\LaraFerreira\\Desktop\\Treinamento\\Treinamento.csproj",
+        "projectPath": "C:\\Users\\LaraFerreira\\Desktop\\Front\\ita\\itatest\\API\\Treinamento.csproj",
         "packagesPath": "C:\\Users\\LaraFerreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LaraFerreira\\Desktop\\Treinamento\\obj\\",
+        "outputPath": "C:\\Users\\LaraFerreira\\Desktop\\Front\\ita\\itatest\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LaraFerreira\\AppData\\Roaming\\NuGet\\NuGet.Config"
